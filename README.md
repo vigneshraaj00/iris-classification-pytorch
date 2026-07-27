@@ -114,6 +114,11 @@ my_iris_model.pt
 * Deploy using Flask or Streamlit
 * Create a web interface for predictions
 
+## Output
+output of loss and epoch
+<img width="927" height="551" alt="image" src="https://github.com/user-attachments/assets/b36e6157-ce0b-4ffd-a69a-a6693c0298d5" />
+
+
 ## 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome. Feel free to fork the repository and submit a pull request.
